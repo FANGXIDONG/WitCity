@@ -1,0 +1,16 @@
+platform :ios, '7.0'
+target 'WitCity' do
+pod 'MJExtension', '~> 3.0.10'
+pod 'Masonry', '~> 0.6.4'
+pod 'MBProgressHUD', '~> 0.9.1'
+pod 'UMengAnalytics-NO-IDFA'
+pod 'UMengSocial', '~> 5.0'
+pod 'AFNetworking', '~> 3.0.4'
+pod 'IQKeyboardManager', '~> 3.3.6'
+pod 'UITableView+FDTemplateLayoutCell', '~> 1.4'
+pod 'SDWebImage', '~>3.7'
+pod 'QBImagePickerController'
+pod 'ReactiveCocoa'
+pod 'MWPhotoBrowser'
+pod 'NJKWebViewProgress'
+end
